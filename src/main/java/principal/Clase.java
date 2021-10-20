@@ -11,6 +11,6 @@ public class Clase {
 		System.out.println("¡¡Finalmente con un gran grito,Gonzalo se transformó en Súper Sayan!!");
 		System.out.println("Al transformarse Gonzalo en SSJ,MIguel se sintió presionado y pensó que si sucediese una épica batalla,el local de CENEC que cuesta tanto costruir que ni si quiera está terminado 2 semanas después de iniciar el curso decidió actuar");
 		System.out.println("Miguel rápidamente cogió su omnitrix y se transformó en Ultra-T para aprovechar el poder computacional de la sala y ordenó al resto de alumnos que abandonaran la sala para que ningún inocente se hiciese daño");
-		
+		System.out.println("Rápidamente todos los alumnos salieron del centro para ponerse a salvo");
 	}
 }
