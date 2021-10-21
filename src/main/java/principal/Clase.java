@@ -20,7 +20,7 @@ public class Clase {
 		System.out.println("Y tras un breve momento de reflexion, se dio cuenta de que lo unico que le pasaba es que se sentia solo, que sus compañeros no le apoyaban en el trabajo, ni le hacian caso");
 		System.out.println("¡Como quieres que apruebe con la clase de compañeros de grupo que tengo!, no me escuchan, no saben lo que están haciendo, ni siquieran saben que existooooo! y tras un enorme grito, Gonzalo se tranquilizo un poco")
 		System.out.println("Tranquilo, dijo Miguel, el poder de la amistad y la programación te salvará, pondré un trabajo tan chungo que todos sufrireis por igual, jajajaja")
-		
+		System.out.println("¡Nooooooooo! Y con esas ultimas palabras, Gonzalo entro en modo SSJ2, ya que su misión de no suspender se le escapaba de entre los dedos...)
 		
 		
 		
