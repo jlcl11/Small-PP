@@ -14,6 +14,7 @@ public class Clase {
 		System.out.println("RÃ¡pidamente todos los alumnos salieron del centro para ponerse a salvo");
 		System.out.println("Entonces, uno de ellos dijo, ¿Vamos al bar a desayunar o que?")
 		System.out.println("Otro respondio; claro, tiene pinta de que esos dos van a estar un rato liados")
+		System.out.println("Mientras los alumnos de 1º de DAM iban hacia el bar donde suelen desayunar, se pueden escuchar gritos y golpes en el centro, asustando a más de un extraño que hacía cola en el desempleo en el edificio de enfrente")
 		
 		
 		
