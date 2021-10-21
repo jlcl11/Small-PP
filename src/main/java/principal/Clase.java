@@ -12,5 +12,13 @@ public class Clase {
 		System.out.println("Al transformarse Gonzalo en SSJ,MIguel se sinti贸 presionado y pens贸 que si sucediese una 茅pica batalla,el local de CENEC que cuesta tanto costruir que ni si quiera est谩 terminado 2 semanas despu茅s de iniciar el curso decidi贸 actuar");
 		System.out.println("Miguel r谩pidamente cogi贸 su omnitrix y se transform贸 en Ultra-T para aprovechar el poder computacional de la sala y orden贸 al resto de alumnos que abandonaran la sala para que ning煤n inocente se hiciese da帽o");
 		System.out.println("R谩pidamente todos los alumnos salieron del centro para ponerse a salvo");
-	}	System.out.println("Entonces, uno de ellos dijo, 縑amos al bar a desayunar o que?")
+		System.out.println("Entonces, uno de ellos dijo, 縑amos al bar a desayunar o que?")
+		System.out.println("Otro respondio; claro, tiene pinta de que esos dos van a estar un rato liados")
+		
+		
+		
+		
+		
+		
+	}
 }
