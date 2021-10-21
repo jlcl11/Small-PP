@@ -21,8 +21,6 @@ public class Clase {
 		System.out.println("¡Como quieres que apruebe con la clase de compañeros de grupo que tengo!, no me escuchan, no saben lo que están haciendo, ni siquieran saben que existooooo! y tras un enorme grito, Gonzalo se tranquilizo un poco")
 		System.out.println("Tranquilo, dijo Miguel, el poder de la amistad y la programación te salvará, pondré un trabajo tan chungo que todos sufrireis por igual, jajajaja")
 		System.out.println("¡Nooooooooo! Y con esas ultimas palabras, Gonzalo entro en modo SSJ2, ya que su misión de no suspender se le escapaba de entre los dedos...)
-		
-		
-		
+		System.out.println("Pero en vez de seguir luchando, empezo a escribir sus diez lineas de código en su repositorio, sin pensar si quiera que no había invitado a sus compañeros para que tambien pudiesen hacerlo")
 	}
 }
